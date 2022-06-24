@@ -351,9 +351,12 @@ header .navbar .nav-link {
 
 .card-desc {
   background: #fff;
-  backdrop-filter: blur(11px);
   border-radius: 18px;
   padding: 20px;
+  margin-top: 160px;
+}
+
+.m-180{
   margin-top: 180px;
 }
 
